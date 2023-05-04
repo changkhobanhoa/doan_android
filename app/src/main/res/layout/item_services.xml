@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_serviceItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/img_service"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_teamwork" />
+
+    <TextView
+        android:id="@+id/txtServicesName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="2"
+        android:text="Điện"
+        android:textColor="@color/black"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/txtServicesCost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:layout_marginTop="5dp"
+        android:ellipsize="end"
+
+        android:gravity="center"
+
+        android:maxLines="2"
+        android:text="3.500 đ/Kwh"
+        android:textColor="#A5241A"
+        android:textSize="11dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

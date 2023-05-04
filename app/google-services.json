@@ -1,0 +1,262 @@
+{
+  "project_info": {
+    "project_number": "166711249633",
+    "firebase_url": "https://findboarding-bd5e3-default-rtdb.firebaseio.com",
+    "project_id": "findboarding-bd5e3",
+    "storage_bucket": "findboarding-bd5e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166711249633:android:e3cf32e30df7d9a3fe85a0",
+        "android_client_info": {
+          "package_name": "com.alexbezhan.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166711249633-ifsir0bem713c1gqjeq8e8r90c3p8qmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alexbezhan.instagram",
+            "certificate_hash": "c00dd85e11849a0448be0bf76f60937bd661fce8"
+          }
+        },
+        {
+          "client_id": "166711249633-iv5tis94qk2q49s0hodc4etc73k4rku1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiA7hTtsMNgjp1bxVhnPQH8w6wr6XqapE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166711249633-b5b2m89pm9u38v5aor8jp4ppbu4d1s4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166711249633:android:077b8e2f44b6fb8efe85a0",
+        "android_client_info": {
+          "package_name": "com.example.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166711249633-aahi0ldje8qk4jc8cdkhfauva6em3j4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialmediaapp",
+            "certificate_hash": "c00dd85e11849a0448be0bf76f60937bd661fce8"
+          }
+        },
+        {
+          "client_id": "166711249633-iv5tis94qk2q49s0hodc4etc73k4rku1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiA7hTtsMNgjp1bxVhnPQH8w6wr6XqapE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166711249633-b5b2m89pm9u38v5aor8jp4ppbu4d1s4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166711249633:android:1ef4abfda3afd376fe85a0",
+        "android_client_info": {
+          "package_name": "com.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166711249633-fd25ic6oa3ecme6ffs05a8isu0jdq3ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instagram",
+            "certificate_hash": "c00dd85e11849a0448be0bf76f60937bd661fce8"
+          }
+        },
+        {
+          "client_id": "166711249633-iv5tis94qk2q49s0hodc4etc73k4rku1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiA7hTtsMNgjp1bxVhnPQH8w6wr6XqapE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166711249633-b5b2m89pm9u38v5aor8jp4ppbu4d1s4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166711249633:android:c69498acf7f1cf64fe85a0",
+        "android_client_info": {
+          "package_name": "com.oguzhandurmaz.kotlininstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166711249633-pjg8ttjamhhn14nlohj1k5sn34i2tk25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oguzhandurmaz.kotlininstagram",
+            "certificate_hash": "c00dd85e11849a0448be0bf76f60937bd661fce8"
+          }
+        },
+        {
+          "client_id": "166711249633-iv5tis94qk2q49s0hodc4etc73k4rku1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiA7hTtsMNgjp1bxVhnPQH8w6wr6XqapE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166711249633-b5b2m89pm9u38v5aor8jp4ppbu4d1s4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166711249633:android:e3f47da52494f4d7fe85a0",
+        "android_client_info": {
+          "package_name": "d.d.d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166711249633-iv5tis94qk2q49s0hodc4etc73k4rku1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiA7hTtsMNgjp1bxVhnPQH8w6wr6XqapE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166711249633-b5b2m89pm9u38v5aor8jp4ppbu4d1s4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166711249633:android:2fafa21377741bbffe85a0",
+        "android_client_info": {
+          "package_name": "trancongtien.com.doan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166711249633-86co158p6sdfp7v6hpqtfj5t5avkmal7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trancongtien.com.doan",
+            "certificate_hash": "c00dd85e11849a0448be0bf76f60937bd661fce8"
+          }
+        },
+        {
+          "client_id": "166711249633-iv5tis94qk2q49s0hodc4etc73k4rku1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiA7hTtsMNgjp1bxVhnPQH8w6wr6XqapE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166711249633-b5b2m89pm9u38v5aor8jp4ppbu4d1s4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166711249633:android:371b333c1951eea5fe85a0",
+        "android_client_info": {
+          "package_name": "trancongtien.com.findingboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166711249633-v3fg6cfsspuegce3um92jo5762iul7jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trancongtien.com.findingboard",
+            "certificate_hash": "c00dd85e11849a0448be0bf76f60937bd661fce8"
+          }
+        },
+        {
+          "client_id": "166711249633-iv5tis94qk2q49s0hodc4etc73k4rku1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiA7hTtsMNgjp1bxVhnPQH8w6wr6XqapE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166711249633-b5b2m89pm9u38v5aor8jp4ppbu4d1s4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

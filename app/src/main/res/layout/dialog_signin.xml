@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+  >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:text="Xác nhận thông tin!"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:background="@drawable/main_shape" />
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:id="@+id/radio_group"
+        android:layout_marginStart="10dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radio_chutro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onRadioButtonClicked"
+            android:layout_marginRight="10dp"
+            android:text="Chủ trọ" />
+
+        <RadioButton
+            android:id="@+id/radio_thuetro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onRadioButtonClicked"
+            android:text="Người ở trọ" />
+    </RadioGroup>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:gravity="right"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/submit_thongtin"
+            android:layout_width="wrap_content"
+            android:text="Xác nhận"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</LinearLayout>
